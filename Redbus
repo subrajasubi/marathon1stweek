@@ -1,0 +1,11 @@
+01) Launch Firefox / Chrome
+02) Load https://www.redbus.in/
+03) Type "Chennai" in the FROM text box
+04) Type "Bangalore" in the TO text box
+05) Select tomorrow's date in the Date field
+06) Click Search Buses
+07) Print the number of buses shown as results (104 Buses found)
+08) Choose 'After 6 pm' in the left menu 
+09) Print the name of the second resulting bus 
+10) Click the VIEW SEATS of that bus
+11) Take screenshot and close browser
