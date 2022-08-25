@@ -1,0 +1,16 @@
+01) Launch Chome
+02) Load https://www.amazon.in/
+03) Type "Bags" in the Search box
+04) Choose the third displayed item in the result (bags for boys)
+05) Print the total number of results (like 30000)
+    1-48 of over 30,000 results for "bags for boys"
+06)Choose New Arrivals (Sort)
+07)Click on Get it by tommorow
+08)Print the total number of results (like 891)
+1-48 of 891 results for "bags for boys"
+09)Confirm the results have got reduced (use step 05 for compare)
+10)Print the first resulting bag info (name, discounted price)
+11)Get the number of bags with Deals of the Days
+12)Get the  color of the Deals of the Days
+13)Click on the First Deal of the day
+14)Take screenshot and close
