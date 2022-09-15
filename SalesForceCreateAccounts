@@ -1,4 +1,4 @@
-//setup the path	
+                 //setup the path	
 		
 		//disable notifications
 		
@@ -8,20 +8,19 @@
 		
 		//add wait
 		
-	    // Login to https://login.salesforce.com
+	        // Login to https://login.salesforce.com
 		
 		//enter username
 		
 		//enter password
-		
-		
+	
 		//click login button
 		
-        //Click on toggle menu button from the left corner
+                //Click on toggle menu button from the left corner
 		
-        //Click view All and click Sales from App Launcher
-		
-        //Click on Opportunity tab 
+               //Click view All and click Sales from App Launcher
+	  	
+                //Click on Opportunity tab 
 		
 		//Click on Accounts tab
 		
@@ -31,7 +30,7 @@
 		
 		//Select Ownership as Public
 		
-        //click save
+               //click save
 		
 		//verify message
 		
