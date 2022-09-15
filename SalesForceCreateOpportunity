@@ -2,28 +2,27 @@
 
 			//setup the path	
 		
-		//disable notifications
+		       //disable notifications
 		
-		//create instance
+		      //create instance
 	
-		//manage ur window
+		     //manage ur window
 		
-		//add wait
+		     //add wait
 		
-	    // Login to https://login.salesforce.com
+	            // Login to https://login.salesforce.com
 		
-		//enter username
+		   //enter username
 		
-		//enter password
+		  //enter password
+	
+		 //click login button
 		
+                //Click on toggle menu button from the left corner
 		
-		//click login button
+                //Click view All and click Sales from App Launcher
 		
-        //Click on toggle menu button from the left corner
-		
-        //Click view All and click Sales from App Launcher
-		
-         //Click on Opportunity tab 
+                //Click on Opportunity tab 
 		
 		//Click on New button
 		
@@ -33,8 +32,8 @@
 		
 		//click stage
 		
-        //click save
+                //click save
 		
 		//verify message
 		
-        // Close the Browser
+                // Close the Browser
