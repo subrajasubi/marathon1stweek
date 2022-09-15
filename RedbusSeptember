@@ -1,27 +1,20 @@
-// Launch Firefox / Chrome
+                // Launch Firefox / Chrome
 		
 		// Load https://www.redbus.in/
 		
 		// Type "Chennai" in the FROM text box
-		
-
+	
 		// Type "Bangalore" in the TO text box
 		
-
 		// Select tomorrow's date in the Date field
 		
-
 		// Click Search Buses
 		
-
 		// Print the number of buses shown as results (104 Buses found)
 		
-
 		// Close the redbus primo notification
 		
-
 		// Choose SLEEPER in the left menu
-		
 		
 		//click on view seats
 		
